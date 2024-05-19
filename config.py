@@ -1,6 +1,6 @@
 customhost = "employee.ctou2w864k2j.us-east-1.rds.amazonaws.com"
 customuser = "intellipat"
-custompass = "test12345"
+custompass = "test1234"
 customdb = "employee"
 custombucket = "demployee"
 customregion = "us-east-1e"
