@@ -1,5 +1,5 @@
 customhost = "employee.ctou2w864k2j.us-east-1.rds.amazonaws.com"
-customuser = "intellipat"
+customuser = "shadab"
 custompass = "test1234"
 customdb = "employee"
 custombucket = "ademp"
