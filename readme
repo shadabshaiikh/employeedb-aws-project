@@ -1,6 +1,9 @@
-sudo apt-get update
-# For Sql-client
-sudo apt-get install mysql-client
+```bash
+sudo apt-get update ```
+
+## install Sql-client
+```bash
+sudo apt-get install mysql-client ```
 
 # For python and related frameworks
 
