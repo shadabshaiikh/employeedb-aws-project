@@ -1,4 +1,4 @@
-### 1. Update System Packages [On Master & Worker Node]
+### 1. Update System 
 
 ```bash
 sudo apt-get update
