@@ -8,7 +8,7 @@ sudo apt-get update
 sudo apt-get install mysql-client 
 ```
 
-### 3.python and related frameworks
+### 3.Installed python and related frameworks
 ```bash
 sudo apt-get install python3
 ```
