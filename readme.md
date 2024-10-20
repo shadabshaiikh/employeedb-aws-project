@@ -3,11 +3,11 @@
 ```bash
 sudo apt-get update
 ```
-### install Sql-client
+### 2.install Sql-client
 ```bash
 sudo apt-get install mysql-client ```
 
-# For python and related frameworks
+### 3.python and related frameworks
 
 sudo apt-get install python3
 sudo apt-get install python3-flask
