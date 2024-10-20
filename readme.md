@@ -24,5 +24,5 @@ sudo apt-get install python3-boto3
 
 ### 4.for running application
 ```bash
-sudo python3 Empapp.py
+sudo python3 EmpApp.py
 ```
