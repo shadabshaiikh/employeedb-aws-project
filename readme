@@ -1,6 +1,8 @@
-```bash
-sudo apt-get update ```
+### 1. Update System Packages [On Master & Worker Node]
 
+```bash
+sudo apt-get update
+```
 ### install Sql-client
 ```bash
 sudo apt-get install mysql-client ```
