@@ -24,8 +24,7 @@ lname varchar(20),
 pri_skill varchar(20),
 location varchar(20));
 ```
-```bash
-```
+
 ### 3.Installed python and related frameworks
 ```bash
 sudo apt-get install python3
