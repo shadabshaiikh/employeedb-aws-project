@@ -1,4 +1,4 @@
-customhost = "jobseeker.cvi6ycwgcxiv.us-east-1.rds.amazonaws.com"
+customhost = "database-1.cvi6ycwgcxiv.us-east-1.rds.amazonaws.com"
 customuser = "devops"
 custompass = "test1234"
 customdb = "employee"
