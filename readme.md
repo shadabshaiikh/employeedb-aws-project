@@ -8,6 +8,10 @@ sudo apt-get update
 sudo apt-get install mysql-client 
 ```
 ```bash
+mysql -h <rds endpoint> -u <username> -p <password>
+```
+
+```bash
 show databases;
 ```
 ```bash
