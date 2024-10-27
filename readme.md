@@ -51,10 +51,23 @@ sudo apt-get install python3-pymysql
 sudo apt-get install python3-boto3
 ```
 
-### 6.for running application
+### 6. For running application
 ```bash
 sudo python3 EmpApp.py
 ```
+### 7. Use S3 for Storage:
+
+Create an S3 bucket to store application data, backups, or other resources.
+Configure S3 access in the application code using the boto3 library, allowing the EC2 instance to upload and retrieve data from the bucket.
+
+### 8. IAM Role and Security Setup:
+Create an IAM Role for EC2, providing permissions for access to RDS and S3.
+Attach Policies that allow access only to the required resources, adhering to the principle of least privilege.
+
+### 9. Testing and Verification:
+Verify Database Connection:
+Go to your database and check if the data has come in or not.
+Access Applications: Test the web applications hosted on the EC2 instance by navigating to the public IP.
 
 # Benefits and Learning Outcomes
 This setup introduces learners to a comprehensive AWS deployment pipeline, combining EC2 for hosting, RDS for managed database services, S3 for storage, and IAM for secure access. It also provides experience with both Node.js and Python applications, working with databases, and leveraging AWS tools for real-world scenarios.
