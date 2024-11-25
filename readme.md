@@ -36,6 +36,9 @@ lname varchar(20),
 pri_skill varchar(20),
 location varchar(20));
 ```
+```bash
+ SELECT * FROM employee;
+```
 
 ### 5.Installed Python environments and related frameworks
 ```bash
